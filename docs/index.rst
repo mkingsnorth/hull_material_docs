@@ -3,8 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Hull Materials Documentaion's documentation!
-=======================================================
+Sci-Fi Hull Materials
+=====================
+
+Get these |Blender| Sci-Fi hull materials |here|.
+
+
+.. |Blender| raw:: html
+
+   <a href="https://www.blender.org/" target="_blank">Blender</a>
+
+.. |here| raw:: html
+
+   <a href="https://store.configurate.net/l/hull-texture" target="_blank">here</a>
+
+   
 
 .. toctree::
    :maxdepth: 2

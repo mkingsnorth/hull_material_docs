@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Hull Materials Documentaion'
+project = 'SciFi Hull Materials'
 copyright = '2022, Mark Kingsnorth'
 author = 'Mark Kingsnorth'
 
