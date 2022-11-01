@@ -31,7 +31,8 @@ Medina Inputs
 * **Panel Height**: The height of the panels.
 * **Min Groove Width**: The minimum width of the blocked goove pattern.
 * **Max Groove Width**: The minimum width of the blocked goove pattern.
-
+* **Groove Notches Scale**: Size of the noise controlling the notches.
+* **Groove Notches Randomness**: Random element of the noise controlling the notches.
 
 Medina Outputs
 **************************************
