@@ -2,7 +2,7 @@ Behemoth
 ######################
 
 * **Cycles:** Recommended with Displacement
-* **EEVEE:** Compatible
+* **EEVEE:** Compatible without Displacement
 
 A variation of big, medium and small sized panels with optional displacement and wear.
 

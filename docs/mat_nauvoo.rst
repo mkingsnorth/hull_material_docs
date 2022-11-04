@@ -2,7 +2,7 @@ Nauvoo
 ######################
 
 * **Cycles:** Recommended with Displacement
-* **EEVEE:** Compatible
+* **EEVEE:** Compatible without Displacement
 
 Random panels with displacement and wear.
 

@@ -2,7 +2,7 @@ Sonny
 ######################
 
 * **Cycles:** Recommended
-* **EEVEE:** NOT COMPATABLE
+* **EEVEE:** Compatible
 
 Panels with optional seam borders and triangulation.
 
