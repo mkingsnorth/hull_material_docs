@@ -9,13 +9,13 @@ Installation
 
     .. image:: ./_static/images/install_add_asset_library.png
 
-#. Select the directory you have saved the .blend file containing the materials.
+#. Select the directory you have saved the *scifi_hull_materials.asset_library.blend* file containing the materials.
 #. Click *Add Asset Library*.
 #. Go to the shading tab and change the *File Browser* to the *Asset Browser* view.
 
     .. image:: ./_static/images/install_asset_browser.png
 
-#. Press the *T* key to open the asset folder tab on the left.  Switch from *Current File* to the *Hull Materials* library.
+#. Press the *T* key to open the asset folder tab on the left.  Switch from *Current File* to the *Sci Fi Hull Materials* library.
 
     .. image:: ./_static/images/install_asset_browser_library.png
 
