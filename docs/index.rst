@@ -41,8 +41,8 @@ Get these |Blender| Sci-Fi hull materials |here|.
    mat_nauvoo
    mat_odyssey
    mat_sonny
-   mat_starfleet
    mat_starfleet_windows
+   mat_starfleet
    mat_sulaco
    mat_tron
    
